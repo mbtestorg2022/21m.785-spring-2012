@@ -12,7 +12,7 @@ Lectures: 1 session / week, 3 hours / session
 Prerequisites
 -------------
 
-It is recommended that students take the course [_21M.604 Playwriting I_](/courses/21m-604-playwriting-i-spring-2005/) or receive the permission of the instructor.
+It is recommended that students take the course [_21M.604 Playwriting I_](/courses/21m-604-playwriting-i-spring-2005) or receive the permission of the instructor.
 
 Course Requirements
 -------------------
